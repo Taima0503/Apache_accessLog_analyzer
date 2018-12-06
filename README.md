@@ -30,13 +30,14 @@ Apache HTTP サーバへのアクセスログを分析するプログラムで5�
    
 ##Requirement  
 Python 3.6.5  
-  packages-> re,  
-             csv,  
-             glob,  
-             argparse,  
-             datetime,  
-             collections,  
-             matplotlib.pyplot  
+  packages-> 
+  re,  
+  csv,  
+  glob,  
+  argparse,  
+  datetime,  
+  collections,  
+  matplotlib.pyplot  
                
                
 ##Usage  
